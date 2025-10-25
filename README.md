@@ -12,7 +12,7 @@ https://irdxe.github.io/Movie-Rating-Page/
 ## How to view locally
 
 1- Clone: https://github.com/irdxe/Movie-Rating-Page.git
-2- Open 'index.html' in your browser.
+2- Open `index.html` in your browser.
 
 ## Accessibility note
 
