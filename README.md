@@ -1,15 +1,15 @@
 # Movie-Rating-Page
 
-A small movie rating page built to practice the use of acessibility features and ARIA elements in HTML.
+A small movie rating page built to practice the use of accessibility features and ARIA elements in HTML.
 
 ## About
 
-This project was created as part of the freeCodeCamp HTML curriculum to practice semantic HTML, headings, lists, images and structure.
+This project was created as part of the freeCodeCamp HTML curriculum to practice semantic HTML, headings, lists, images, structure and accessibility features.
 
 ## Demo
 https://irdxe.github.io/Movie-Rating-Page/
 
-## How to view locally
+## How to run locally
 
 1- Clone: https://github.com/irdxe/Movie-Rating-Page.git
 2- Open `index.html` in your browser.
